@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.agri/
+
+# Datasets
+data/raw/
+data/processed/
+*.csv
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Secrets and environment
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+mlruns/
+
+data/raw/
+
+*.csv

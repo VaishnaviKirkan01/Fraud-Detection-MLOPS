@@ -1,0 +1,17 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+joblib
+mlflow
+sqlalchemy
+python-dotenv
+matplotlib
+seaborn
+pytest
+httpx

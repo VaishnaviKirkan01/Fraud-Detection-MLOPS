@@ -1,0 +1,8 @@
+{
+  "X_train_under": "d:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\Fraud-Detection-mlops\\data\\processed\\X_train_under.parquet",
+  "y_train_under": "d:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\Fraud-Detection-mlops\\data\\processed\\y_train_under.parquet",
+  "X_val": "d:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\Fraud-Detection-mlops\\data\\processed\\X_val.parquet",
+  "y_val": "d:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\Fraud-Detection-mlops\\data\\processed\\y_val.parquet",
+  "X_test": "d:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\Fraud-Detection-mlops\\data\\processed\\X_test.parquet",
+  "y_test": "d:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\Fraud-Detection-mlops\\data\\processed\\y_test.parquet"
+}
